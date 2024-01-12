@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Vinchurkar</h1>
 <h3 align="center">"Empowering Continuous Integration, Deployment, and Cloud Operations with DevOps Expertise: A GitHub Journey"</h3>
-<img https://www.google.com/search?q=animated+coding+gif&tbm=isch&ved=2ahUKEwjX3LGO8teDAxVhkmMGHUdgDtYQ2-cCegQIABAA&oq=animated+coding+gif&gs_lcp=CgNpbWcQAzIGCAAQBxAeMgYIABAHEB4yCAgAEAgQBxAeMggIABAIEAcQHjoECCMQJzoFCAAQgARQjBhY4SZg0CdoAHAAeACAAYEBiAHVBZIBAzAuNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=-DWhZdeANOGkjuMPx8C5sA0&bih=914&biw=1745#imgrc=dbrfb5dvHO4gVM>
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushvinchurkar&label=Profile%20views&color=0e75b6&style=flat" alt="ayushvinchurkar" /> </p>
 
 - 🌱 I’m currently learning **DevOps**
