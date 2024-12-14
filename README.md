@@ -30,7 +30,7 @@
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/GeeksforGeeks_logo.svg" alt="geeksforgeeks" height="30" width="40" />
 </a>
 <a href="https://www.codechef.com/users/ayushvinchurkar" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/CodeChef_logo.png" alt="codechef" height="30" width="40" />
+    <img align="center" src="https://www.codechef.com/images/logos/CodeChef-logo.png" alt="codechef" height="30" width="40" />
 </a>
 <a href="https://www.hackerrank.com/ayushvinchurkar" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/HackerRank_logo_2021.png" alt="hackerrank" height="30" width="40" />
