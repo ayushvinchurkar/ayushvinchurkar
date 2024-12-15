@@ -75,13 +75,5 @@
 
 ---
 
-<h3 align="left">Official Tech Page:</h3>
-
-<p align="left">
-Visit the official **GitHub Tech** documentation to enhance your skills and keep up-to-date with GitHub tools and features:  
-🔗 [GitHub Docs](https://docs.github.com/)
-</p>
-
----
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushvinchurkar&" alt="ayushvinchurkar" /></p>
